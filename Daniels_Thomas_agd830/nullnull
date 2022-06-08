@@ -1,0 +1,8 @@
+// data is reservationNo, itemCode, userID, startDate, noOfDays
+
+[Item Reservation Data] 
+
+000003, LM003873, AB-779796, 19-01-2021, 39
+000002, LM004720, AB-183785, 24-02-2021, 16
+000001, LM003698, AB-093569, 02-01-2021, 6
+000004, LM005002, AB-767886, 14-01-2021, 45

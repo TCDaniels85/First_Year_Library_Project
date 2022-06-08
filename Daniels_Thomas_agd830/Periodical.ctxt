@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Periodical()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Periodical,\ default\ values\ set\ for\ fields\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPublicationDate()
+comment1.text=\r\n\ Returns\ publication\ date\r\n
+comment2.params=publicationDate
+comment2.target=void\ setPublicationDate(java.lang.String)
+comment2.text=\r\n\ Sets\ publicationDate\ field\ value\r\n
+comment3.params=scanner
+comment3.target=void\ readData(java.util.Scanner)
+comment3.text=\r\n\ Reads\ item\ data\ in\ from\ text\ file,\ passed\ scanner\ object\ as\ parameter\ from\ readData()\ method\ in\ Library\ class\r\n\ passes\ scanner\ to\ Super\ class\ printed\ item\r\n
+comment4.params=
+comment4.target=void\ printDetails()
+comment4.text=\r\n\ Prints\ periodical\ object\ specific\ details\ then\ calls\ to\ printDetails()\ method\ in\ super\ class\ to\ add\ those\ details\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ ToString\ method\ to\ allow\ all\ details\ of\ the\ Periodical\ items\ in\ the\ array\ to\ be\ dislpayed\r\n
+numComments=6

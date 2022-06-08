@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AudioVisual()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ AudioVisual,\ default\ values\ used\ for\ fields.\r\n
+comment1.params=
+comment1.target=int\ getPlayingTime()
+comment1.text=\r\n\ Returns\ value\ in\ playingTime\ field\r\n
+comment2.params=playingTime
+comment2.target=void\ set(int)
+comment2.text=\r\n\ Sets\ value\ in\ playingTime\ field\r\n
+comment3.params=scanner
+comment3.target=void\ readData(java.util.Scanner)
+comment3.text=\r\n\ Reads\ data\ into\ AudioVisual\ class,\ passed\ the\ scanner\ object\ as\ a\ parameter\ from\ readData()\ method\ \r\n\ of\ either\ CD\ or\ DVD\ class\r\n
+comment4.params=
+comment4.target=void\ printDetails()
+comment4.text=\r\n\ Prints\ details\ of\ selected\ item\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ ToString\ method\r\n
+numComments=6
